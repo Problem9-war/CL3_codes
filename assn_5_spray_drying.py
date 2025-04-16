@@ -1,3 +1,7 @@
+
+
+# YOU MIGTH GET ERROR FOR GENETICALGORITHM -> IF U GET ERROR THEN INSTALL GENETICALGORITHM -> pip install geneticalgorithmn -> on terminal 
+
 # Importing Libraries
 import numpy as np
 from sklearn.model_selection import train_test_split
